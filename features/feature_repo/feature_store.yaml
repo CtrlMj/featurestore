@@ -1,0 +1,6 @@
+project: features
+registry: ../store/feature/registry.db
+provider: local
+online_store:
+    path: ../store/feature/online_store.db
+entity_key_serialization_version: 2
